@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "info.partonetrain.ocelotfix.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+      "OcelotMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
